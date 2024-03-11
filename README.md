@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> 👋 السلام عليكم (As-salamu 'Alaykum) </h3>
+<h3 align="center"> السلام عليكم (As-salamu 'Alaykum) </h3>
 
 <h4 align="center">I'm a passionate web developer with . Laravel . & . Vuejs . </h4>
 
