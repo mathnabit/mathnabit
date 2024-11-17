@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3 align="center"> السلام عليكم (As-salamu 'Alaykum) </h3>
 
 <h4 align="center"> 
-  *Web Developer* with the  ` Laravel ` & ` Vue.js ` Ecosystem 
+  *Web Developer* with the  `Laravel` & `Vue.js` Ecosystem 
 </h4>
 
 
