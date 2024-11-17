@@ -14,15 +14,19 @@ Here are some ideas to get you started:
 -->
 <h3 align="center"> السلام عليكم (As-salamu 'Alaykum) </h3>
 
-<h4 align="center"> Web Developer with the `Laravel` & `Vue.js` Ecosystem </h4>
+<h4 align="center"> 
+  *Web Developer* with the  ` Laravel ` & ` Vue.js ` Ecosystem 
+</h4>
 
-<!--
+
+<!-- 
 <p align="center">
   <samp>
     <a href="#">About me</a> #
     <a href="#">My blog</a> #
     <a href="#">LinkedIn</a> 
   </samp>
-</p>
+</p> 
 -->
+
 
