@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">
  
-  **Muslim**; **Web Developer**  with  *`Laravel`*  &  *`Vue.js`*  *Ecosystem*  |  **مُسلم**؛ **مُطوّر ويب** باعتماد منظومة *`لارافل`* و *`فيو جي-اس`*
+  **Muslim**; **Web Developer**  with  *`Laravel`*  &  *`Vue.js`*  *Ecosystem*  |  **مُسلِم**؛ **مُطوّر ويب** باعتماد منظومة `لارافِل` و `فْيو جي-اِس`
   
 </h4>
 
