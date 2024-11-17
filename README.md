@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <h3 align="center"> السلام عليكم (As-salamu 'Alaykum) </h3>
 
-<h4 align="center" > 
+<h4 align="center">
  
-  **Web Developer**  with  *`Laravel`*  &  *`Vue.js`*  *Ecosystem*
+  **Muslim**, **Web Developer**  with  *`Laravel`*  &  *`Vue.js`*  *Ecosystem*  |  **مُسلم**، **مُطوّر ويب** بتوظيف منظومة `لارافل` و `فيو جي-اس`
   
 </h4>
 
