@@ -1,5 +1,5 @@
 <!--
-**omaratbd7/omaratbd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> **omaratbd7/omaratbd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. </h3>
 
 Here are some ideas to get you started:
 
@@ -12,10 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h3 align="center"> السلام عليكم (As-salamu 'Alaykum) </h3>
 
-<h4 align="center"> 
-  *Web Developer* with the  `Laravel` & `Vue.js` Ecosystem 
+<h4 align="center" > 
+ 
+  **Web Developer**  with  *`Laravel`*  &  *`Vue.js`*  *Ecosystem*
+  
 </h4>
 
 
