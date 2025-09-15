@@ -21,6 +21,38 @@ Here are some ideas to get you started:
   
 </h4>
 
+<h4 align="center">
+ 
+  ***Web Artisan 🔨** — Crafting Apps with Elegant <a href="https://tallstack.dev/">• TALL •</a> & <a href="https://viltstack.dev/">• VILT •</a> Stacks*
+  
+</h4>
+
+<p align="center">
+  <!-- Laravel -->
+  <a href="https://laravel.com" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="30" height="30"/>
+  </a> •
+  <!-- Alpine.js -->
+  <a href="https://alpinejs.dev" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="30" height="30"/>
+  </a> •
+  <!-- Livewire -->
+  <a href="https://livewire.laravel.com" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" alt="livewire" width="30" height="30"/>
+  </a> • 
+  <!-- TailwindCSS -->
+  <a href="https://tailwindcss.com" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="30" height="30" />
+  </a> •
+  <!-- Inertia.js -->
+  <a href="https://inertiajs.com" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" alt="inertia" width="30" height="30"/>
+  </a> •
+  <!-- Vue.js -->
+  <a href="https://vuejs.org" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/>
+  </a>
+</p>
 
 <!-- 
 <p align="center">
