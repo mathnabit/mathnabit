@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">
  
-  ***Web Artisan 🔨** — Crafting Apps with Elegant <a href="https://tallstack.dev/">• TALL •</a> & <a href="https://viltstack.dev/">• VILT •</a> Stacks*
+  ***Web Artisan 🔨** — Crafting Apps with Elegant <a href="https://tallstack.dev/" target="_blank">• TALL •</a> & <a href="https://viltstack.dev/" target="_blank">• VILT •</a> Stacks*
   
 </h4>
 
